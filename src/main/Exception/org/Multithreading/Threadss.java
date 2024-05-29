@@ -13,7 +13,7 @@ public class Threadss {
         Mydem ty=new Mydem();
         ty.setDaemon(true);
         ty.start();
-        System.out.println("sdg");
+        System.out.println("sdgdfsexs");
         try{
         Thread.sleep(100);
         }catch (Exception e){
